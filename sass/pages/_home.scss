@@ -1,0 +1,15 @@
+.header li {
+  display: inline-block;
+}
+
+.header a {
+  color: $font-secondary;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.logo{
+  font-size: 24px;
+  font-weight: 900;
+  color: $font-white;
+}
