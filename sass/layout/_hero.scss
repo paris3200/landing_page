@@ -1,0 +1,26 @@
+.hero{
+  background-color: $main;
+  margin: 0;
+  padding: 10px 0;
+}
+
+.hero_text{
+  width: 50%;
+  align-self: center;
+}
+
+
+.hero_img_placeholder {
+  align-self: center;
+  display: flex;
+  background-color: #808080;
+  width: 50%;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero_text p {
+  color: $font-secondary;
+}
+
